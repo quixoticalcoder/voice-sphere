@@ -1,0 +1,15 @@
+data
+output_dir
+pretrained_models
+Flowchart.png
+newfile.ipynb
+output.png
+speechdiarization.ipynb
+tmpsu44edcb.mp3
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+temp_outputs/
+uploaded_audio.*

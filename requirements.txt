@@ -1,0 +1,17 @@
+# Dependency inventory inferred from app.py; not a tested compatibility lock.
+# Install matching torch/torchaudio builds for your hardware first.
+streamlit
+wget
+omegaconf
+torch
+torchaudio
+nemo_toolkit[asr]
+deepmultilingualpunctuation
+nltk
+numpy
+matplotlib
+librosa
+soundfile
+ctc-forced-aligner
+faster-whisper
+demucs
